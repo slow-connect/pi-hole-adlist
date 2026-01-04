@@ -1,0 +1,15 @@
+pc-mon-boot.capcutapi.com
+pc-mon-normal-sg.capcutapi.com
+editor-api-myb.capcutapi.com
+commerce-api-myb.capcutapi.com
+i18n-api.faceueditor.com
+heycan-api.capcutapi.com
+feed-api-myb.capcutapi.com
+frontier-sg.capcut.com
+sf16-web-tos-buz.capcutstatic.com
+gecko-sg.capcutapi.com
+www.capcut.com
+lf16-capcut.faceulv.com
+commercepro.capcut.com
+pippit.capcut.com
+sf16-web-login-neutral.capcutstatic.com
